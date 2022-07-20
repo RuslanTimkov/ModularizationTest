@@ -2,7 +2,7 @@ package com.example.home.di
 
 import com.example.core.di.CoreComponent
 import com.example.core.di.scope.FeatureScope
-import com.example.home.presentation.HomeFragment
+import com.example.home.presentation.home.HomeFragment
 import dagger.Component
 
 @FeatureScope

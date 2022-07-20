@@ -5,6 +5,10 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.home.presentation.HomeFragment"
+        android:name="com.example.home.presentation.home.HomeFragment"
         android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/moduleFragment"
+        android:name="com.example.home.presentation.modules.ModuleFragment"
+        android:label="ModuleFragment" />
 </navigation>
